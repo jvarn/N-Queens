@@ -303,10 +303,11 @@ class Queens
 	}
 	
 	/**
-	 * insert_nav method.
-	 * Outputs the navbar
+	 * print_board method.
+	 * Outputs the completed chess board
 	 *
 	 * @access public
+	 * @param $plain mixed outputs the plain text version of the chess board if set
 	 */
 	public function print_board( $plain=null ) {
 		if ( !isset( $plain ) ) {
