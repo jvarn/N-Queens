@@ -26,8 +26,8 @@ The original class output a text-based grid like this:
 **My changes are mainly cosmetic:**
 * A select box from where you can choose the grid size (number of queens)
 * Added an alternative output style: an HTML table
-* A bit of Bootstrap for its grids, navs, and button styles (chosen because its the CSS framework with which I'm most familiar). Thanks to Bootstrap and a teeny bit of extra CSS, the chess board should fit to the screen without any overflow on any size of device.
-* An SVG queen: "queen by Dolly Holmes from the Noun Project"
+* A bit of Bootstrap for its grids, navs, and button styles (chosen because it's the CSS framework with which I'm most familiar). Thanks to Bootstrap and a teeny bit of extra CSS, the chess board should fit to the screen without any overflow on any size of device.
+* An SVG queen: [queen by Dolly Holmes from the Noun Project](https://thenounproject.com/term/queen/990748)
 * Wrapped text-based board in a pre tag so it aligns nicely.
 
 **Other changes include:**
