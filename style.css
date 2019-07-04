@@ -1,0 +1,30 @@
+body {
+	padding-top:90px;
+}
+
+#navbar {
+	background:#d98008!important;
+}
+
+table.chessboard {
+	margin:auto;
+	border-collapse:revert;
+	box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+td {
+	padding:0!important;
+	width: 100vw;
+}
+
+.b {
+	background:#999;
+}
+
+.w {
+	background:#eee;
+}
+
+svg {
+	background:#ffc158;
+}
